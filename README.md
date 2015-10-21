@@ -23,6 +23,8 @@ module.exports = credentials;
 
 Change USER and PASS with your instagram login-password
 
+Change tag in tags array (./data/tags file)
 
 ## Use:
-mocha app.js
+- Start Selenium server
+- mocha app.js
