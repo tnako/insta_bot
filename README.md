@@ -6,7 +6,7 @@ Instagram like automator
 - Node.JS
 - mocha (npm install mocha)
 - Selenium + firefox plugin
-- npm install webdriverio assert async
+- npm install webdriverio@2.4.5 assert async
 
 
 ## Configure:
